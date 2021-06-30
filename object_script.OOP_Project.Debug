@@ -1,0 +1,14 @@
+debug/main.o
+debug/login_form.o
+debug/employee_info.o
+debug/add.o
+debug/delete.o
+debug/stock.o
+debug/buttons.o
+debug/qrc_pics.o
+debug/moc_login_form.o
+debug/moc_employee_info.o
+debug/moc_add.o
+debug/moc_delete.o
+debug/moc_stock.o
+debug/moc_buttons.o

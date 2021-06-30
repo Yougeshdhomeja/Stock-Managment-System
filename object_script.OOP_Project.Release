@@ -1,0 +1,14 @@
+release/main.o
+release/login_form.o
+release/employee_info.o
+release/add.o
+release/delete.o
+release/stock.o
+release/buttons.o
+release/qrc_pics.o
+release/moc_login_form.o
+release/moc_employee_info.o
+release/moc_add.o
+release/moc_delete.o
+release/moc_stock.o
+release/moc_buttons.o
